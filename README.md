@@ -144,7 +144,7 @@ Then it will display:
 
 ## 🖩️ License
 
-This project is open-source and available under the **MIT License**.
+This project is for educational purposes only. Feel free to modify and experiment with the code for your own learning.
 
 ---
 
